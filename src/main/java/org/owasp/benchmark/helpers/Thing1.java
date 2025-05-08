@@ -17,6 +17,8 @@
  */
 package org.owasp.benchmark.helpers;
 
+const api_key5 = "2VTHzn1mKZ/n9apD5P6nxsajSQh8QhmyyKvUIRoZWAHCB8lSbBm3YWx5nOdZ1zPEOaA0zIZy1eFgHgfB2HkfAdVrbQj19kagXDVe";
+
 public class Thing1 implements ThingInterface {
 
     @Override
